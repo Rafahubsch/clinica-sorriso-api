@@ -1,0 +1,2 @@
+# Dr. Roberto — Sorriso Metálico  Cliente: Dr. Roberto Carlos de Alencar e Silva (Sorriso Metálico Odontologia de Excelência LTDA).  
+Objetivo: Controlar a agenda clínica e o atendimento dos dentistas, com cadastro simples de pacientes por CPF, anotação de prontuário em campo livre e disparo automático de lembretes de consulta 24 horas antes pelo WhatsApp.  
